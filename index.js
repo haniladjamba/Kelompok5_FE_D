@@ -22,5 +22,7 @@ console.log("Patch 2.0");
 // master patch 0.1 
 console.log("patch 0.1");
 
+// update home
+console.log("home");
 // update footer
 console.log("footer");
