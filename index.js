@@ -14,3 +14,6 @@ console.log("Emang boleh se jerrico itu eheee")
 
 console.log("Tumewu, Benedict Jonathan")
 
+// ------------------------------------------------------------------------
+// master patch 0.1 
+console.log("patch 0.1");
