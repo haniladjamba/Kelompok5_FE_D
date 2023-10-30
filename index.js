@@ -24,3 +24,5 @@ console.log("patch 0.1");
 
 // update home
 console.log("home");
+// update footer
+console.log("footer");
